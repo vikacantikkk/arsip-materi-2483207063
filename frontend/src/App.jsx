@@ -35,7 +35,7 @@ function App() {
     }
 
     muatMateri();
-d
+
     return () => {
       masihAktif = false;
     };
